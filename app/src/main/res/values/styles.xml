@@ -7,5 +7,12 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
+    <style name="name_style">
+        <item name="android:textSize">24sp</item>
+        <item name="android:paddingBottom">@dimen/padding_16</item>
+
+
+
+    </style>
 
 </resources>
